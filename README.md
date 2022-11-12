@@ -6,8 +6,14 @@
 
 # Tecnologias Usadas:
 
+**Backend:**
 - JAVA 8 
 - MYSQL
-- JAVASCRIPT
 - SPRING BOOT
 - SPRING FRAMEWORK
+
+**Frontend:**
+- JAVASCRIPT
+- BOOTSTRAP
+- HTML
+- CSS
