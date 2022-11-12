@@ -7,6 +7,7 @@
 # Tecnologias Usadas:
 
 - JAVA 8 
-- MYSQL 
+- MYSQL
+- JAVASCRIPT
 - SPRING BOOT
 - SPRING FRAMEWORK
